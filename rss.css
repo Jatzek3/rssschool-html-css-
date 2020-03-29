@@ -1,0 +1,53 @@
+
+html {
+    background-color: white;
+}
+
+
+.circle {
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+    left: 60px;
+    top: 60px;
+}
+.contactInfo {
+    position: fixed;
+    left: 770px;
+    top: 60px;
+    color: whitesmoke;
+    
+}
+.name {
+    position: fixed;
+    left: 250px;
+    top: 100px;
+    color: whitesmoke;
+}
+.title {
+    position: fixed;
+    left: 250px;
+    top: 150px;
+    color: whitesmoke;
+}
+header {
+    background-color: #555c8f;
+    height: 300px;
+}
+
+main {
+    background-color: wheat;
+}
+
+
+footer {
+    position: fixed;
+    bottom: 0px;
+    background: #555c8f;
+    height: 100px;
+    width: 100%;
+    color: whitesmoke;
+
+}
