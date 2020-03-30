@@ -1,6 +1,7 @@
 
 html {
     background-color: white;
+    height: 1200px;
 }
 
 
@@ -20,8 +21,9 @@ html {
     top: 80px;
     color: whitesmoke;
     font-family: 'Open Sans', sans-serif;
-    font-weight: bolder;
     font-size: 45px;
+    font-weight: bolder;
+
 }
 
 
@@ -78,9 +80,65 @@ header {
     left: 0;
     width: 100%;
     background-color: #4e59aa;
-    height: 300px;
+    height: 250px;
 
 }
+
+.bagCircle1 {
+    position: fixed;
+    left: 80px;
+    top: 300px;
+}
+.H2AndText1 {
+    position: fixed;
+    left: 150px;
+    top: 300px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+
+}
+.ProfInfoText {
+    position: fixed;
+    left: 80px;
+    top: 360px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.bagCircle2 {
+    position: fixed;
+    left: 80px;
+    top: 500px;
+}
+.H2AndText2 {
+    position: fixed;
+    left: 150px;
+    top: 500px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+.intrests {
+    position: fixed;
+    left: 60px;
+    top: 580px;
+}
+.bagCircle3 {
+    position: fixed;
+    left: 80px;
+    top: 700px;
+}
+.H2AndText3 {
+    position: fixed;
+    left: 150px;
+    top: 700px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+.career {
+    position: fixed;
+    left: 80px;
+    top: 750px;
+}
+
 
 main {
     background-color: whitesmoke;
