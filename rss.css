@@ -4,7 +4,6 @@ html {
     height: 1200px;
 }
 
-
 .circle {
     background-color: whitesmoke;
     border-radius: 50%;
@@ -23,7 +22,6 @@ html {
     font-family: 'Open Sans', sans-serif;
     font-size: 45px;
     font-weight: bolder;
-
 }
 
 
@@ -79,10 +77,14 @@ header {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #4e59aa;
+    background-color: #4c5eab;
     height: 250px;
-
 }
+
+
+
+
+
 
 .bagCircle1 {
     position: fixed;
@@ -121,10 +123,12 @@ header {
     left: 60px;
     top: 580px;
 }
-.bagCircle3 {
+.bagCirclereference {
     position: fixed;
     left: 80px;
     top: 700px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
 }
 .H2AndText3 {
     position: fixed;
@@ -139,6 +143,142 @@ header {
     top: 750px;
 }
 
+.bagCircle3 {
+    position: fixed;
+    left: 80px;
+    top: 950px;
+}
+.H2AndText4 {
+    position: fixed;
+    left: 150px;
+    top: 960px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+}
+
+.Awards {
+    position: fixed;
+    left: 80px;
+    top: 1000px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.bagCircle4 {
+    position: fixed;
+    left: 360px;
+    top: 300px;
+}
+.H2AndText5 {
+    position: fixed;
+    left: 420px;
+    top: 310px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+
+}
+
+
+
+
+
+
+.square1 {
+    position: fixed;
+    left: 450px;
+    top: 360px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+.TitleUnderBox1 {
+    position: fixed;
+    left: 500px;
+    top: 530px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.square2 {
+    position: fixed;
+    left: 770px;
+    top: 360px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+.TitleUnderBox2 {
+    position: fixed;
+    left: 820px;
+    top: 530px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.square3 {
+    position: fixed;
+    left: 450px;
+    top: 600px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+
+.TitleUnderBox3 {
+    position: fixed;
+    left: 500px;
+    top: 770px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.square4 {
+    position: fixed;
+    left: 770px;
+    top: 600px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+.TitleUnderBox4 {
+    position: fixed;
+    left: 820px;
+    top: 770px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.square5 {
+    position: fixed;
+    left: 770px;
+    top: 840px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+.TitleUnderBox5 {
+    position: fixed;
+    left: 500px;
+    top: 1000px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.square6 {
+    position: fixed;
+    left: 450px;
+    top: 840px;
+    height: 160px;
+    width: 250px;
+    background-color: rgb(206, 206, 206);
+}
+.TitleUnderBox6 {
+    position: fixed;
+    left: 820px;
+    top: 1000px;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+
+}
 
 main {
     background-color: whitesmoke;
@@ -148,7 +288,7 @@ main {
 footer {
     position: fixed;
     bottom: 0px;
-    background: #4e59aa;
+    background: #4c5eab;
     height: 100px;
     width: 100%;
     color: whitesmoke;
